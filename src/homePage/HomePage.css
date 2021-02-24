@@ -27,7 +27,9 @@
 }
 
 .table-row-cell {
-  	-fx-selection-bar: #C5CAC7; 
+  	-fx-selection-bar: #C5CAC7;
+    -fx-cell-size: 60px;
+    -fx-font-size: 20px;
 }
 .text-area {
     -fx-background-color: rgba(200,200,200,0.8);

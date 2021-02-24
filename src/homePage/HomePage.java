@@ -92,6 +92,7 @@ public class HomePage extends Application{
 		TableColumn<Diary,Integer> pageNumberColumn=new TableColumn("Pages");
 		pageNumberColumn.setCellValueFactory(new PropertyValueFactory<>("pageNumber"));
 		table.getColumns().addAll(imageColumn, titleColumn, createdDateColumn, visitedDateColumn, pageNumberColumn);
+		titleColumn.setStyle( "-fx-alignment: CENTER-LEFT;");
 		pageNumberColumn.setStyle( "-fx-alignment: CENTER;");
 		imageColumn.setStyle( "-fx-alignment: CENTER;");
 		createdDateColumn.setStyle( "-fx-alignment: CENTER;");

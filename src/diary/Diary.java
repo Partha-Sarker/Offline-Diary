@@ -84,6 +84,7 @@ public class Diary {
 		visitedDateColumn.setMaxWidth(1600);
 		imageColumn.setMaxWidth(180);
 		createdDateColumn.setStyle("-fx-alignment: CENTER;");
+		titleColumn.setStyle("-fx-alignment: CENTER-LEFT;");
 		visitedDateColumn.setStyle("-fx-alignment: CENTER;");
 		imageColumn.setStyle("-fx-alignment: CENTER;");
 		Button delete=new Button();

@@ -2,94 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb0795ec-6843-4f31-ba11-87e84e4e9918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offline_diary_intellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diary/Diary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diaryPage/AddAudio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diaryPage/AddPhoto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diaryPage/AddVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diaryPage/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$3$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Important.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/SignUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/settings/Settings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/audio_player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/diary_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/fullscreen_video_player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/home_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/pages.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/sign_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/video_player.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FirstTimeCheck.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/diary-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/photos/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-audio-15-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-audio-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-delete-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-full-screen-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-go-back-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-male-user-filled-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-no-audio-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-page-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-pause-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-play-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-spiral-bound-booklet-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-trash-filled-20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/icons8-trash-filled-white20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/icon/login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/abstract6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/audio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/flashScreen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/asset/photo/popup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diary/Diary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diaryPage/AddAudio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diaryPage/AddPhoto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diaryPage/AddVideo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diaryPage/MediaContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diaryPage/MediaContent.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/diaryPage/Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/home page/Password.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/home page/password enable check.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/homePage/FlashScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/FlashScreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/homePage/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/homePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/homePage/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/homePage/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/Login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$3$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Important.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/Popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/important/Popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/important/SignUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/settings/Settings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/settings/Settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/settings/Settings.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/settings/SignUp.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/settings/SignUp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/settings/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/FirstTimeCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/FirstTimeCheck.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/home page/Password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/home page/Password.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/settings/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/diary/Diary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diary/Diary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diary/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diary/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/homePage/HomePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homePage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homePage/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +41,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
