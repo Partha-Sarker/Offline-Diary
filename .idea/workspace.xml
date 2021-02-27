@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb0795ec-6843-4f31-ba11-87e84e4e9918" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/diary/Diary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/diary/Diary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offline_diary_intellij/homePage/HomePage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/diary/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diary/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/home_page.png" beforeDir="false" afterPath="$PROJECT_DIR$/photos/home_page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/pages.png" beforeDir="false" afterPath="$PROJECT_DIR$/photos/pages.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/homePage/HomePage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homePage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homePage/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
